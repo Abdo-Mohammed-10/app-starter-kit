@@ -1,1 +1,6 @@
 streamlit>=1.26.0
+google-generativeai
+openai
+pillow
+streamlit
+matplotlib
