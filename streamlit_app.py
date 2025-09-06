@@ -7,7 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/11XeYeGGuV11YqmVWuboDqwBK2gVivb3O
 """
 
-!pip install google-generativeai openai pillow
 
 from IPython.display import display, HTML
 import io
