@@ -1,6 +1,5 @@
-streamlit>=1.26.0
+streamlit
+Pillow
 google-generativeai
 openai
-pillow
-streamlit
 matplotlib
