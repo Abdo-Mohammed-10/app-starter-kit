@@ -2,7 +2,6 @@
 import streamlit as st
 from PIL import Image
 import os
-from your_module import generate_story_scenes, parse_story_scenes, generate_scene_images  # عدل حسب اسم الملف
 
 st.set_page_config(page_title="Story to Images", layout="wide")
 
