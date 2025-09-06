@@ -1,5 +1,5 @@
+google-generativeai==0.23.0
 streamlit
 Pillow
-google-generativeai
 openai
 matplotlib
