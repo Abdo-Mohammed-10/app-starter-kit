@@ -118,7 +118,6 @@ parse_story_output
 import base64
 import mimetypes
 import os
-from google import genai
 from google.genai import types
 
 
@@ -212,13 +211,10 @@ def show_scene_images_table(scenes):
 show_scene_images_table(scenes)
 
 
-from IPython.display import display, HTML
 import io
 import mimetypes
 from PIL import Image
-from google import genai
 from google.genai import types
-from google import genai
 
 client = genai.Client(api_key='Gemini_API')
 
