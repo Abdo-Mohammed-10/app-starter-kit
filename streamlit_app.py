@@ -9,7 +9,7 @@ from google.genai import types
 # -----------------------------
 # Gemini API Key
 # -----------------------------
-gemini_api_key = "YOUR_GEMINI_API_KEY"  # ضع هنا مفتاحك
+gemini_api_key = "AIzaSyDj-T7y3mWOddmjUZZ3od1ByQsKRrKg16U"  # ضع هنا مفتاحك
 client = genai.Client(api_key=gemini_api_key)
 
 # -----------------------------
