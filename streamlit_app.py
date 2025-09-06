@@ -8,7 +8,6 @@ Original file is located at
 """
 
 
-from IPython.display import display, HTML
 import io
 import mimetypes
 from PIL import Image
