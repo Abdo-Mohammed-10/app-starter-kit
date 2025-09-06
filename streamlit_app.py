@@ -212,7 +212,6 @@ def show_scene_images_table(scenes):
 
 show_scene_images_table(scenes)
 
-!pip install google-generativeai openai pillow
 
 from IPython.display import display, HTML
 import io
